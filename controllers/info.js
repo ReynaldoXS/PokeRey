@@ -1,0 +1,1 @@
+import{getPokemon} from "../service/client-service"
